@@ -45,4 +45,15 @@
         a {
             color: white;
             text-decoration: underline;
-        }
+        } 
+        #official-info {
+          width: 70%;
+          height: 300px;
+          overflow-y: auto;
+          overflow-x: hidden;
+          border: 2px dashed Aquamarine;   
+          padding: 5px; 
+       }
+       h2:hover {
+         color: DeepSkyBlue;
+       }
