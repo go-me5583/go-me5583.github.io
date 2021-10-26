@@ -1,0 +1,54 @@
+ h1 {
+            color: cyan;
+            text-decoration: underline  wavy DodgerBlue;
+        }
+        body {
+            background-color: black;
+            color:white;            
+        }
+        #official-info {
+            width: 70%;
+            height: 300px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            border: 2px dashed Aquamarine;   
+            padding: 5px; 
+        }
+        #container {
+            margin:auto;
+        }
+        #wiki-link {
+            color:cyan;
+        }
+        #tern-img {
+            float: left;
+            padding: 10px;
+            height: 150px;
+        }
+        h2:hover {
+            color: DeepSkyBlue;
+        }
+        p:hover,li:hover {
+            font-family: cursive;
+            font-size: 1em;
+        }
+        a:hover {
+            background-color: DarkSlateGray;
+        }
+        #overview-div {
+            border: 2px dashed red;
+            padding: 6px;
+        }
+        #basic-info-div {
+            border: 2px solid gold;
+            padding: 6px;
+
+        }
+        #facts {
+             border: 10px double Chartreuse;
+             padding: 6px;
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+        }
