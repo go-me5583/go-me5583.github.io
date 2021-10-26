@@ -6,13 +6,7 @@
             background-color: black;
             color:white;            
         }
-        #official-info {
-            width: 70%;
-            height: 300px;
-            overflow-y: auto;
-            overflow-x: hidden;
-            border: 2px dashed Aquamarine;   
-            padding: 5px; 
+        
         }
         #container {
             margin:auto;
