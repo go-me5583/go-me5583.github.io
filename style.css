@@ -1,8 +1,9 @@
 h1,h2 {
   color: cyan;
+  text-decoration: underline wavy blue;
 }
 
 body{
 font-family: cursive;
-text-decoration: underline overline wavy blue;
+  background-color: black;
 }
